@@ -1,0 +1,412 @@
+{
+  "$schema": "./songs.schema.json",
+  "version": 1,
+  "songs": [
+    {
+      "id": "monsoon-window",
+      "title": "Monsoon window",
+      "collection": "Original film-inspired",
+      "difficulty": "Easy",
+      "composer": "Raagroom",
+      "license": {
+        "kind": "original",
+        "attribution": "Original Indian-film-inspired composition created for Raagroom; not a commercial song adaptation. CC0."
+      },
+      "notes": [
+        {
+          "pitch": 64,
+          "startTime": 0,
+          "duration": 0.6,
+          "velocity": 0.55
+        },
+        {
+          "pitch": 67,
+          "startTime": 0.75,
+          "duration": 0.3,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 69,
+          "startTime": 1.125,
+          "duration": 0.6,
+          "velocity": 0.68
+        },
+        {
+          "pitch": 67,
+          "startTime": 1.875,
+          "duration": 0.9,
+          "velocity": 0.62
+        },
+        {
+          "pitch": 64,
+          "startTime": 3,
+          "duration": 0.3,
+          "velocity": 0.55
+        },
+        {
+          "pitch": 62,
+          "startTime": 3.375,
+          "duration": 0.6,
+          "velocity": 0.5
+        },
+        {
+          "pitch": 60,
+          "startTime": 4.125,
+          "duration": 1.1,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 62,
+          "startTime": 5.625,
+          "duration": 0.3,
+          "velocity": 0.55
+        },
+        {
+          "pitch": 64,
+          "startTime": 6,
+          "duration": 0.3,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 69,
+          "startTime": 6.375,
+          "duration": 0.65,
+          "velocity": 0.7
+        },
+        {
+          "pitch": 67,
+          "startTime": 7.125,
+          "duration": 0.65,
+          "velocity": 0.62
+        },
+        {
+          "pitch": 64,
+          "startTime": 7.875,
+          "duration": 1.4,
+          "velocity": 0.5
+        }
+      ]
+    },
+    {
+      "id": "marigold-walk",
+      "title": "Marigold walk",
+      "collection": "Original film-inspired",
+      "difficulty": "Intermediate",
+      "composer": "Raagroom",
+      "license": {
+        "kind": "original",
+        "attribution": "Original Indian-film-inspired composition created for Raagroom; not a commercial song adaptation. CC0."
+      },
+      "notes": [
+        {
+          "pitch": 60,
+          "startTime": 0,
+          "duration": 0.2,
+          "velocity": 0.7
+        },
+        {
+          "pitch": 62,
+          "startTime": 0.3,
+          "duration": 0.2,
+          "velocity": 0.5
+        },
+        {
+          "pitch": 67,
+          "startTime": 0.6,
+          "duration": 0.45,
+          "velocity": 0.75
+        },
+        {
+          "pitch": 64,
+          "startTime": 1.2,
+          "duration": 0.2,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 65,
+          "startTime": 1.5,
+          "duration": 0.2,
+          "velocity": 0.65
+        },
+        {
+          "pitch": 69,
+          "startTime": 1.8,
+          "duration": 0.45,
+          "velocity": 0.75
+        },
+        {
+          "pitch": 67,
+          "startTime": 2.4,
+          "duration": 0.2,
+          "velocity": 0.65
+        },
+        {
+          "pitch": 64,
+          "startTime": 2.7,
+          "duration": 0.2,
+          "velocity": 0.55
+        },
+        {
+          "pitch": 62,
+          "startTime": 3,
+          "duration": 0.45,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 64,
+          "startTime": 3.6,
+          "duration": 0.2,
+          "velocity": 0.7
+        },
+        {
+          "pitch": 67,
+          "startTime": 3.9,
+          "duration": 0.2,
+          "velocity": 0.7
+        },
+        {
+          "pitch": 72,
+          "startTime": 4.2,
+          "duration": 0.45,
+          "velocity": 0.8
+        },
+        {
+          "pitch": 69,
+          "startTime": 4.8,
+          "duration": 0.3,
+          "velocity": 0.65
+        },
+        {
+          "pitch": 65,
+          "startTime": 5.25,
+          "duration": 0.2,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 62,
+          "startTime": 5.55,
+          "duration": 0.2,
+          "velocity": 0.55
+        },
+        {
+          "pitch": 60,
+          "startTime": 6,
+          "duration": 1,
+          "velocity": 0.65
+        }
+      ]
+    },
+    {
+      "id": "rooftop-lanterns",
+      "title": "Rooftop lanterns",
+      "collection": "Original film-inspired",
+      "difficulty": "Easy",
+      "composer": "Raagroom",
+      "license": {
+        "kind": "original",
+        "attribution": "Original Indian-film-inspired composition created for Raagroom; not a commercial song adaptation. CC0."
+      },
+      "notes": [
+        {
+          "pitch": 69,
+          "startTime": 0,
+          "duration": 0.85,
+          "velocity": 0.5
+        },
+        {
+          "pitch": 72,
+          "startTime": 1,
+          "duration": 0.6,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 71,
+          "startTime": 1.75,
+          "duration": 0.35,
+          "velocity": 0.5
+        },
+        {
+          "pitch": 67,
+          "startTime": 2.25,
+          "duration": 1.1,
+          "velocity": 0.55
+        },
+        {
+          "pitch": 65,
+          "startTime": 3.75,
+          "duration": 0.35,
+          "velocity": 0.5
+        },
+        {
+          "pitch": 64,
+          "startTime": 4.25,
+          "duration": 0.6,
+          "velocity": 0.45
+        },
+        {
+          "pitch": 62,
+          "startTime": 5,
+          "duration": 0.85,
+          "velocity": 0.5
+        },
+        {
+          "pitch": 64,
+          "startTime": 6,
+          "duration": 0.35,
+          "velocity": 0.55
+        },
+        {
+          "pitch": 67,
+          "startTime": 6.5,
+          "duration": 0.35,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 69,
+          "startTime": 7,
+          "duration": 0.6,
+          "velocity": 0.6
+        },
+        {
+          "pitch": 64,
+          "startTime": 7.75,
+          "duration": 0.85,
+          "velocity": 0.5
+        },
+        {
+          "pitch": 60,
+          "startTime": 9,
+          "duration": 1.5,
+          "velocity": 0.45
+        }
+      ]
+    },
+    {
+      "id": "saffron-sky",
+      "title": "Saffron sky",
+      "collection": "Original film-inspired",
+      "difficulty": "Intermediate",
+      "composer": "Raagroom",
+      "license": {
+        "kind": "original",
+        "attribution": "Original Indian-film-inspired composition created for Raagroom. CC0."
+      },
+      "notes": [
+        {
+          "pitch": 60,
+          "startTime": 0,
+          "duration": 0.528,
+          "velocity": 0.58
+        },
+        {
+          "pitch": 64,
+          "startTime": 0.6,
+          "duration": 0.264,
+          "velocity": 0.64
+        },
+        {
+          "pitch": 62,
+          "startTime": 0.9,
+          "duration": 0.264,
+          "velocity": 0.52
+        },
+        {
+          "pitch": 67,
+          "startTime": 1.2,
+          "duration": 0.792,
+          "velocity": 0.72
+        },
+        {
+          "pitch": 69,
+          "startTime": 2.1,
+          "duration": 0.264,
+          "velocity": 0.62
+        },
+        {
+          "pitch": 67,
+          "startTime": 2.4,
+          "duration": 0.528,
+          "velocity": 0.67
+        },
+        {
+          "pitch": 64,
+          "startTime": 3.0,
+          "duration": 0.528,
+          "velocity": 0.58
+        },
+        {
+          "pitch": 62,
+          "startTime": 3.6,
+          "duration": 0.792,
+          "velocity": 0.64
+        },
+        {
+          "pitch": 60,
+          "startTime": 4.5,
+          "duration": 0.792,
+          "velocity": 0.52
+        },
+        {
+          "pitch": 62,
+          "startTime": 5.7,
+          "duration": 0.264,
+          "velocity": 0.72
+        },
+        {
+          "pitch": 64,
+          "startTime": 6.0,
+          "duration": 0.264,
+          "velocity": 0.62
+        },
+        {
+          "pitch": 67,
+          "startTime": 6.3,
+          "duration": 0.528,
+          "velocity": 0.67
+        },
+        {
+          "pitch": 72,
+          "startTime": 6.9,
+          "duration": 0.792,
+          "velocity": 0.58
+        },
+        {
+          "pitch": 69,
+          "startTime": 7.8,
+          "duration": 0.264,
+          "velocity": 0.64
+        },
+        {
+          "pitch": 67,
+          "startTime": 8.1,
+          "duration": 0.264,
+          "velocity": 0.52
+        },
+        {
+          "pitch": 69,
+          "startTime": 8.4,
+          "duration": 0.528,
+          "velocity": 0.72
+        },
+        {
+          "pitch": 64,
+          "startTime": 9.0,
+          "duration": 0.528,
+          "velocity": 0.62
+        },
+        {
+          "pitch": 62,
+          "startTime": 9.6,
+          "duration": 0.528,
+          "velocity": 0.67
+        },
+        {
+          "pitch": 60,
+          "startTime": 10.2,
+          "duration": 1.32,
+          "velocity": 0.58
+        }
+      ]
+    }
+  ]
+}

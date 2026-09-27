@@ -1,0 +1,5 @@
+{
+  "$schema": "./songs.schema.json",
+  "version": 1,
+  "songs": []
+}
