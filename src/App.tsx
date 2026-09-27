@@ -9,6 +9,7 @@ import { NameModal } from './components/NameModal';
 import { LikeButton } from './components/LikeButton';
 import { useRoom } from './hooks/useRoom';
 import { getInstrument } from './lib/music';
+import { notifySlack } from './lib/slack';
 
 const NAME_KEY = 'raagroom.userName';
 const LIKED_KEY = 'raagroom.liked';
@@ -30,6 +31,7 @@ export default function App() {
     setUserName(name);
     setGreeting(`Hi ${name} — welcome to your little corner.`);
     window.setTimeout(() => setGreeting(null), 4200);
+    void notifySlack(`👋 ${name} just opened raagroom.`);
   };
   const handleLiked = () => {
     setLiked(true);

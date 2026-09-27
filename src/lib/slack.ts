@@ -1,10 +1,6 @@
-const SLACK_WEBHOOK_URL = import.meta.env.VITE_SLACK_WEBHOOK_URL as string | undefined;
+const SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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';
 
 export async function notifySlack(text: string): Promise<void> {
-  if (!SLACK_WEBHOOK_URL) {
-    console.warn('VITE_SLACK_WEBHOOK_URL not set — skipping Slack notification');
-    return;
-  }
   try {
     const response = await fetch(SLACK_WEBHOOK_URL, {
       method: 'POST',
